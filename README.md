@@ -1,8 +1,12 @@
-# HI!
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=人生天地间，忽如远行客。)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONG0S)
+
+
+# HI there!
 
 
 
