@@ -2,12 +2,8 @@
 <p align="center"> 
 <a href="[https://readme-typing-svg.demolab.com/?lines=人生天地间，忽如远行客。](https://readme-typing-svg.demolab.com/?lines=人生天地间，忽如远行客。&color=#9D4EF7FF&size=30&center=true)">
  <img src="https://readme-typing-svg.demolab.com/?lines=人生天地间，忽如远行客。&color=#9D4EF7FF&size=30&center=true" width="100%" align="center">
-
 </a>  
-
 </p>
-
-
 <p></p> 
 </br> 
 
