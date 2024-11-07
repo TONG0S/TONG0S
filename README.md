@@ -12,5 +12,7 @@
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
 
 <p align="center"> 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TONG0S&theme=tokyo-night)
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=TONG0S&theme=tokyo-night">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=TONG0S&theme=tokyo-night" width="100%">
+</a>
 </p>
