@@ -2,20 +2,8 @@
 
 
 
-name: Update README
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONG0S)
 
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TONG0S)
